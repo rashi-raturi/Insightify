@@ -15,3 +15,4 @@ def extract_mermaid(output):
     
     return code
 
+

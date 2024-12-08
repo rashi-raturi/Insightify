@@ -52,5 +52,5 @@ def render_mermaid(code):
     </body>
     </html>
     """
-    components.html(mermaid_html, height=600, scrolling=False)
+    components.html(mermaid_html, height=1000, scrolling=False)
 
